@@ -1,0 +1,17 @@
+{
+  "name": "prestashop/vtex_connector",
+  "authors": [
+    {
+      "name": "Customsoft"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "PrestaShop\\Module\\VtexConnector\\": "src/"
+    },
+    "config": {
+      "prepend-autoloader": false
+    },
+    "type": "prestashop-module"
+  }
+}

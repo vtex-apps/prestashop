@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>vtex_connector</name>
+    <displayName><![CDATA[VTEX Connector]]></displayName>
+    <version><![CDATA[0.0.1]]></version>
+    <description><![CDATA[A module that allows VTEX marketplaces to sell products from an external prestashop seller]]></description>
+    <author><![CDATA[CustomSoft]]></author>
+    <tab><![CDATA[]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to uninstall?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
